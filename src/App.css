@@ -1,0 +1,14 @@
+.title {
+  color: rgb(190, 190, 33);
+  text-decoration: underline;
+}
+
+.ball {
+  color: aqua;
+}
+
+.square {
+  height: 200px;
+  width: 300px;
+  background-color: black;
+}
